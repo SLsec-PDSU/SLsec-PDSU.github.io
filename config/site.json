@@ -1,0 +1,35 @@
+{
+  "lab": {
+    "name": "SLsec 网络安全实验室",
+    "fullName": "平顶山学院信息工程学院 SLsec 网络安全实验室",
+    "slogan": "砺剑护盾 · 攻防兼备",
+    "description": "SLsec 是平顶山学院信息工程学院的网络安全兴趣小组，专注于 CTF 竞赛训练、漏洞研究与安全工具开发。实验室以赛促学，定期组织校内新生赛和技术分享，培养具备实战能力的网络安全人才。"
+  },
+  "members": [
+    {
+      "name": "KanaDE",
+      "role": "创始人",
+      "avatar": "/avatars/kanade.jpg",
+      "blog": "https://kanade-chan.top",
+      "github": "https://github.com/kanaD3-Chan",
+      "description": "喜欢自称学姐的卡那德，其实是学长"
+    }
+  ],
+  "links": [
+    {
+      "name": "CTFHub",
+      "url": "https://www.ctfhub.com/",
+      "description": "在线 CTF 刷题平台"
+    },
+    {
+      "name": "攻防世界",
+      "url": "https://adworld.xctf.org.cn/",
+      "description": "XCTF 社区练习平台"
+    },
+    {
+      "name": "你缺失的那门计算机课",
+      "url": "https://www.criwits.top/missing/",
+      "description": "电脑基础入门推荐"
+    }
+  ]
+}
